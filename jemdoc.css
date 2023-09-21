@@ -20,7 +20,7 @@ body {
 	padding-left: 8px;
 	padding-right: 8px;
 	font-size: 1.0em;
-	width: auto;
+	width: 1000px;
 	white-space: nowrap;
     text-align: left;
     vertical-align: top;
@@ -364,8 +364,4 @@ img {
 table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
-}
-div.wrap {
-    width:1000px;
-    margin:0 auto;
 }
